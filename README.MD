@@ -2,7 +2,7 @@
 
 ## 1. Top 100 Liked Questions 
  
-- [LeetCode Top 100 Liked Questions](https://leetcode.com/problemset/?listId=79h8rn6&page=1&sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D)
+- [LeetCode Top 100 Liked Questions](https://leetcode.com/problemset/?listId=79h8rn6&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJBQ19SQVRFIn1d)
 
 ## 2. Topic-Focused Practice 
 
